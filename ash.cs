@@ -1,7 +1,6 @@
-class Program
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("kavin");///kavin
+class Vasan{
+    public static void main(String[] args){
+        Console.Writeline("hii") //vasan code
+        Console.Writeline("Kavin") //Kavin code
     }
 }
